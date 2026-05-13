@@ -2,7 +2,7 @@
  * Entry point — equivalent of Java's main() method.
  * Run with: node Main.js
  */
-const TicTacToeGame = require('./TicTacToeGame');
+const TicTacToeGame = require('../TicTacToeGame');
 
 async function main() {
   console.log('============================');
